@@ -1,6 +1,6 @@
 diff --git a/package.json b/package.json
-index f0f423b..f84b71c 100644
---- a/package.json
+index f0f423b..f84b71c 100644 
+--- a/package.json  
 +++ b/package.json
 @@ -144,6 +144,26 @@
        "14.0.0",
@@ -41,7 +41,7 @@ index f0f423b..f84b71c 100644
 +    ],
 +    [
 +      "node",
-+      "18.0.0",
++      "18.0.0", 
 +      "108"
      ]
    ]
